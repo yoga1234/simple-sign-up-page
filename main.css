@@ -43,6 +43,9 @@ form input{
   border-radius: 5px;
   padding: 15px;
 }
+form input:focus{
+  outline: none;
+}
 form button{
   margin-top: 40px;
   width: 100%;
